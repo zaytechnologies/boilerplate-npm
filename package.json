@@ -1,15 +1,18 @@
 {
-	"name": "Samuel Arinze",
-	"author": "Samuel Arinze",
-	"dependencies": {
-		"express": "^4.14.0"
-	},
-	"main": "server.js",
-	"scripts": {
-		"start": "node server.js"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/zaytechnologies/boilerplate-npm"
-	}
+  "name": "samuel-arinze",
+  "version": "1.0.0",
+  "description": "FreeCodeCamp boilerplate project",
+  "author": "Samuel Arinze",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zaytechnologies/boilerplate-npm"
+  },
+  "license": "MIT"
 }
